@@ -20,5 +20,6 @@ public class AnagramCheck {
     }
 
 
+
 }
 //            System.out.println(isAnagram("William Shakespeare", "I am a weakish speller")); // true
