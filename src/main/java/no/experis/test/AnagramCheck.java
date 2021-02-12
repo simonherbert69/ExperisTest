@@ -19,7 +19,10 @@ public class AnagramCheck {
         return strB.equals("");
     }
 
+    public static void main(String[] args) {
+        AnagramCheck ana = new AnagramCheck();
+        System.out.println(ana.isAnagram("William Shakespeare", "I am a weakish speller"));
 
+    }
 
 }
-//            System.out.println(isAnagram("William Shakespeare", "I am a weakish speller")); // true
